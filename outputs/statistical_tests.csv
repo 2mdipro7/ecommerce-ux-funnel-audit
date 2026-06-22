@@ -1,0 +1,17 @@
+test,hypothesis,status,reason,statistic,p_value,degrees_of_freedom,effect_size,effect_size_name,n,group_0_median,group_1_median,groups
+Chi-square,Purchase conversion differs by device category.,skipped,Not enough category/outcome variation.,,,,,,,,,
+Chi-square,Purchase conversion differs by traffic medium.,skipped,Not enough category/outcome variation.,,,,,,,,,
+Chi-square,Purchase conversion differs by product/category entry point.,completed,,5054.274825425806,0.0,20.0,0.10152081166245673,Cramer's V,490398.0,,,
+Chi-square,Product-detail-to-cart behavior differs by category.,completed,,12381.700057525173,0.0,20.0,0.15922824084920453,Cramer's V,488360.0,,,
+Chi-square,Product-detail-to-cart behavior differs by device.,skipped,Not enough category/outcome variation.,,,,,,,,,
+Chi-square,Checkout completion differs by device.,skipped,Not enough category/outcome variation.,,,,,,,,,
+Mann-Whitney U,Converted sessions have different engagement time than non-converted sessions.,completed,,1491830547.0,0.0,,-0.7370208531149196,Rank-biserial correlation,490398.0,0.0,75.0,
+Mann-Whitney U,Converted sessions have different duration than non-converted sessions.,completed,,1491830547.0,0.0,,-0.7370208531149196,Rank-biserial correlation,490398.0,0.0,75.0,
+Mann-Whitney U,Cart-intent sessions have different event volume than non-cart sessions.,completed,,1069182917.5,0.0,,-0.8846341136735201,Rank-biserial correlation,490398.0,1.0,3.5,
+Mann-Whitney U,Converted sessions involve different average item prices than non-converted sessions.,completed,,5301748831.5,1.5155245511846385e-66,,-0.06541035273033491,Rank-biserial correlation,490398.0,57.62,66.5475,
+Kruskal-Wallis,Journey depth differs by device category.,skipped,Not enough groups with sufficient observations.,,,,,,,,,
+Kruskal-Wallis,Journey depth differs by traffic medium.,skipped,Not enough groups with sufficient observations.,,,,,,,,,
+Kruskal-Wallis,Journey depth differs by product/category entry point.,completed,,12359.976458140964,0.0,,0.025164264347922034,Epsilon squared,490398.0,,,21.0
+Kruskal-Wallis,Engagement time differs by product/category entry point.,completed,,8128.444919382819,0.0,,0.0165351248516607,Epsilon squared,490398.0,,,21.0
+Spearman correlation,Event volume is associated with deeper journey progression.,completed,,0.5448466193958208,0.0,,0.5448466193958208,Spearman rho,490398.0,,,
+Spearman correlation,Unique product breadth is associated with deeper journey progression.,completed,,0.18143065836736288,0.0,,0.18143065836736288,Spearman rho,490398.0,,,

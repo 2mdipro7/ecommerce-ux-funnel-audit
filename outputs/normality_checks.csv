@@ -1,0 +1,7 @@
+metric,group,status,reason,n,sample_n,statistic,p_value,interpretation,label
+engagement_seconds_winsorized,0,completed,,466054,5000,0.5395569367933204,2.2349276553662297e-78,non-normal,Engagement time normality by purchase outcome.
+engagement_seconds_winsorized,1,completed,,24344,5000,0.3524466853244451,7.698636433962638e-86,non-normal,Engagement time normality by purchase outcome.
+session_duration_sec_winsorized,0,completed,,466054,5000,0.5395569367933204,2.2349276553662297e-78,non-normal,Session duration normality by purchase outcome.
+session_duration_sec_winsorized,1,completed,,24344,5000,0.3524466853244451,7.698636433962638e-86,non-normal,Session duration normality by purchase outcome.
+event_count_winsorized,0,completed,,449128,5000,0.541724098317072,2.818889002095218e-78,non-normal,Event count normality by cart-intent outcome.
+event_count_winsorized,1,completed,,41270,5000,0.6918362523887918,4.927266100676015e-70,non-normal,Event count normality by cart-intent outcome.

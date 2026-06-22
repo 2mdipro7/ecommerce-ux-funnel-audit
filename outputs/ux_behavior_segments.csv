@@ -1,0 +1,4 @@
+ux_intent_segment,device_category,source_medium,sessions,users,avg_events,avg_engagement_seconds,median_engagement_seconds,product_detail_rate,cart_rate,checkout_rate,purchase_rate,revenue_usd,checkout_abandonment_rate,cart_without_checkout_rate,revenue_per_session,friction_score
+Checkout abandoners,unknown,kaggle_electronics / clickstream,20508,19298,4.411741759313439,60.820947922761846,152.0,0.9997074312463429,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.55
+Product detail browsers,unknown,kaggle_electronics / clickstream,445546,381217,1.452743375543715,13.560011760850731,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+Purchasers,unknown,kaggle_electronics / clickstream,24344,21304,6.0476503450542225,68.29625369700953,491.0,0.9165297403877752,0.8528590207032534,0.8528590207032534,1.0,5125395.62,0.0,0.0,210.54040502793296,0.0

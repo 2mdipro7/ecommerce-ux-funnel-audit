@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local secrets
+.env
+.env.local
+.env.*
+!.env.example
+
+# Exported and downloaded data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated Python cache
+__pycache__/
+
+# Raw/preprocessed data is excluded; reproducible outputs and reports are tracked.
+
+# Notebook checkpoints
+.ipynb_checkpoints/

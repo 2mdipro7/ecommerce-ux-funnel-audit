@@ -1,0 +1,45 @@
+ux_intent_segment,device_category,source_medium,landing_path,sessions,avg_predicted_purchase_probability,cart_rate,checkout_rate,avg_engagement_seconds,avg_journey_depth
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.components.videocards,4255,0.9097120968387652,1.0,1.0,69.58730904817861,3.999764982373678
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/unknown,3148,0.8785998169613055,1.0,1.0,70.02064803049555,3.9996823379923763
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/electronics.telephone,1776,0.8945179847319717,1.0,1.0,68.76295045045045,3.999436936936937
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/computers.components.videocards,1757,0.5437235780079314,0.0,0.0,74.9931701764371,2.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/unknown,1512,0.5159120307567774,0.0,0.0,74.99867724867725,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,other,1344,0.8756598639911052,1.0,1.0,70.59002976190476,3.9992559523809526
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/electronics.telephone,1309,0.5777530343860579,0.0,0.0,74.938884644767,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.peripherals.printer,979,0.8943165669959958,1.0,1.0,68.96629213483146,3.998978549540347
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/stationery.cartrige,899,0.6143154194574639,0.0,0.0,74.85761957730811,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/stationery.cartrige,841,0.8843478628221348,1.0,1.0,62.85017835909631,3.998810939357907
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.components.cpu,813,0.9108145649988292,1.0,1.0,71.08487084870849,4.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/computers.notebook,789,0.6018864931076786,0.0,0.0,74.91001267427123,2.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/computers.peripherals.printer,771,0.5783340949903715,0.0,0.0,74.97405966277562,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.components.motherboard,573,0.9126286598859252,1.0,1.0,71.55497382198953,4.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.notebook,506,0.8939035986991947,1.0,1.0,65.67786561264822,4.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/electronics.audio.acoustic,416,0.8849163787743622,1.0,1.0,70.23076923076923,4.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/electronics.tablet,378,0.8897500356546416,1.0,1.0,69.60317460317461,4.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/computers.components.motherboard,343,0.5293410080930208,0.0,0.0,74.99125364431487,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/auto.accessories.player,300,0.8951460783479007,1.0,1.0,71.78666666666666,4.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/electronics.tablet,279,0.5297934985865744,0.0,0.0,74.98924731182795,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/electronics.video.tv,244,0.8534356335409702,1.0,1.0,73.57377049180327,4.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/electronics.audio.acoustic,193,0.5172505818386212,0.0,0.0,75.0,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.components.power_supply,161,0.904954435706291,1.0,1.0,69.30434782608695,4.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/appliances.environment.vacuum,160,0.5692686319311069,0.0,0.0,74.88125,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.components.hdd,147,0.8937017145799663,1.0,1.0,69.77551020408163,4.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/construction.tools.soldering,145,0.8883489782887438,1.0,1.0,70.54482758620689,4.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.peripherals.monitor,142,0.8850318172196688,1.0,1.0,68.77464788732394,4.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/construction.tools.soldering,141,0.5356511578937599,0.0,0.0,75.0,2.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/computers.components.power_supply,140,0.5712654090221134,0.0,0.0,74.95714285714286,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.peripherals.joystick,139,0.9101221418296414,1.0,1.0,69.56834532374101,4.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.peripherals.wifi,138,0.9038801239836589,1.0,1.0,69.66666666666667,4.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/construction.tools.drill,132,0.8847145662056547,1.0,1.0,72.78787878787878,4.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/computers.peripherals.wifi,112,0.5898590552548881,0.0,0.0,74.86607142857143,2.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/computers.peripherals.joystick,105,0.5647739048421302,0.0,0.0,75.0,2.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/computers.components.hdd,97,0.5421002250225931,0.0,0.0,74.98969072164948,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.desktop,94,0.9021994999307076,1.0,1.0,70.43617021276596,4.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/appliances.sewing_machine,91,0.8798788183162392,1.0,1.0,72.02197802197803,4.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/electronics.audio.headphone,89,0.855083464339781,1.0,1.0,67.62921348314607,4.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/computers.peripherals.monitor,89,0.5435948543800357,0.0,0.0,75.0,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/appliances.environment.vacuum,87,0.8878606100963156,1.0,1.0,69.01149425287356,4.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/auto.accessories.videoregister,86,0.8145805836500523,1.0,1.0,73.3953488372093,4.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/computers.desktop,79,0.5348787577470396,0.0,0.0,75.0,2.0
+Checkout abandoners,unknown,kaggle_electronics / clickstream,/category/computers.components.cooler,71,0.8354987377551968,1.0,1.0,72.22535211267606,4.0
+Product detail browsers,unknown,kaggle_electronics / clickstream,/category/computers.components.cpu,54,0.5145708649729271,0.0,0.0,75.0,2.0
