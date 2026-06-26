@@ -1,5 +1,7 @@
 # Ecommerce UX Funnel Audit: Diagnosing Product Discovery Drop-Offs from Real Clickstream Data
 
+![Banner](banner/banner.png)
+
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Data](https://img.shields.io/badge/Data-Real%20Clickstream-blue)
 ![Focus](https://img.shields.io/badge/Focus-UX%20%2F%20Product%20Analytics-green)
